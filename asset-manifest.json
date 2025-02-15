@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shawty-chat/static/css/main.e525553a.css",
+    "main.js": "/shawty-chat/static/js/main.acd3e142.js",
+    "static/js/453.76818df1.chunk.js": "/shawty-chat/static/js/453.76818df1.chunk.js",
+    "index.html": "/shawty-chat/index.html",
+    "main.e525553a.css.map": "/shawty-chat/static/css/main.e525553a.css.map",
+    "main.acd3e142.js.map": "/shawty-chat/static/js/main.acd3e142.js.map",
+    "453.76818df1.chunk.js.map": "/shawty-chat/static/js/453.76818df1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e525553a.css",
+    "static/js/main.acd3e142.js"
+  ]
+}
